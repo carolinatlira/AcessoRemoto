@@ -2,7 +2,7 @@
 Um guia básico de como fazer acesso remoto em computadores e celulares.
 
 Principais ferramentas:
-- Anydesk
+# Anydesk
   Fazer o download em https://anydesk.com/pt
   Confira abaixo a tela inicial do aplicativo:
   <img width="959" height="503" alt="Captura de tela 2026-07-28 165154" src="https://github.com/user-attachments/assets/51253366-7600-4bf9-bc2f-ba36810bde23" />
