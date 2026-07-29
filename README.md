@@ -20,7 +20,41 @@ Principais ferramentas:
   <br></br>
   <img width="959" height="503" alt="Captura de tela 2026-07-28 165856" src="https://github.com/user-attachments/assets/a1339fbb-0401-4d3b-b3c9-018472176ecc" />
 
-#TeamViewer
+# TeamViewer
+ Acesse o site https://www.teamviewer.com/pt-br/ e clique em "Baixe Grátis".
+ <br></br>
+ <img width="959" height="498" alt="Captura de tela 2026-07-29 135548" src="https://github.com/user-attachments/assets/6b5c1f46-afc5-4862-8f22-078cfd0f3ac4" />
+<br></br>
+ Você terá duas opções: Baixar o TeamViewer (para fornecer suporte) ou QuickSupport (para receber suporte).
+<br></br>
+ <img width="959" height="503" alt="Captura de tela 2026-07-29 140005" src="https://github.com/user-attachments/assets/e0782929-32b4-4d45-b4ae-05caee3a3c6b" />
+<br></br>
+ Para este estudo de caso, foi escolhido o TeamViewer para fornecer suporte e durante a instalação foi escolhida a opção "Instale com as configurações padrão" como na imagem a seguir:
+<br></br>
+ <img width="959" height="503" alt="Captura de tela 2026-07-29 140529" src="https://github.com/user-attachments/assets/30da5dbb-0873-4a4c-9b00-da6930500f59" />
+<br></br>
+ Aceite o EULA e o DPA.
+<br></br>
+ <img width="959" height="502" alt="Captura de tela 2026-07-29 140751" src="https://github.com/user-attachments/assets/46d84ce2-665f-4b4c-b6f3-cf96d63c8038" />
+<br></br>
+ O TeamViewer abrirá automaticamente e mostrará seu ID e senha para compartilhar com um agente de suporte e também exibirá o botão "Iniciar sessão TeamViewer".
+ <br></br>
+ <img width="959" height="502" alt="Captura de tela 2026-07-29 141216" src="https://github.com/user-attachments/assets/e843dea8-e7ca-4c9e-8ecd-d9886d623c34" />
+<br></br>
+ Para iniciar sessão crie uma conta ou use uma conta Microsoft, Google ou Apple.
+ <br></br>
+ <img width="959" height="503" alt="Captura de tela 2026-07-29 141703" src="https://github.com/user-attachments/assets/3e8bc62d-2507-4f99-8a65-d65652fb5a8d" />
+<br></br>
+ O TeamViewer estará pronto para uso.
+<br></br>
+ <img width="959" height="505" alt="Captura de tela 2026-07-29 142129" src="https://github.com/user-attachments/assets/de7057ca-a3d3-4a8e-bb85-cf647cd3046c" />
+
+
+
+
+
+
+
 
   
 
