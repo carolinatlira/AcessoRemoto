@@ -20,6 +20,10 @@ Principais ferramentas:
   <br></br>
   <img width="959" height="503" alt="Captura de tela 2026-07-28 165856" src="https://github.com/user-attachments/assets/a1339fbb-0401-4d3b-b3c9-018472176ecc" />
 
+#TeamViewer
+
+  
+
 
 
 
