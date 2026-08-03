@@ -58,7 +58,7 @@ Principais ferramentas:
 <br></br>
  <img width="959" height="539" alt="Captura de tela 2026-08-03 170028" src="https://github.com/user-attachments/assets/5ce9ff02-d83f-403b-8c3b-4d76df3729fd" />
 <br></br>
- Digite o número de IP da máquina que quer acessar e se o acesso remoto ao servidor dessa máquina estiver ativado e disponível na rede, digite usuário (.\usuário) e senha da máquina. O acesso será feito com sucesso.
+ Digite o número de IP da máquina que quer acessar e se o acesso remoto ao servidor dessa máquina estiver ativado e disponível na rede, digite usuário e senha da máquina. O acesso será feito com sucesso.
 
  # Assistência Rápida
  É um software nativo do windows. Para acessá-lo, vá até o menu iniciar e procure por "Assistência Rápida".
