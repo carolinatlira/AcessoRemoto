@@ -49,6 +49,8 @@ Principais ferramentas:
 <br></br>
  <img width="959" height="505" alt="Captura de tela 2026-07-29 142129" src="https://github.com/user-attachments/assets/de7057ca-a3d3-4a8e-bb85-cf647cd3046c" />
 
+ # Terminal Service
+
 
 
 
