@@ -50,6 +50,18 @@ Principais ferramentas:
  <img width="959" height="505" alt="Captura de tela 2026-07-29 142129" src="https://github.com/user-attachments/assets/de7057ca-a3d3-4a8e-bb85-cf647cd3046c" />
 
  # Terminal Service
+ Essa é a Conexão de Área de Trabalho do Windows. Para acessar aperte o botão iniciar e pesquise pela palavra ms como na imagem abaixo.
+ <br></br>
+ <img width="959" height="539" alt="Captura de tela 2026-08-03 165744" src="https://github.com/user-attachments/assets/00e64c1b-7d63-42c3-85ac-8b2f5480b04a" />
+<br></br>
+ Clique em Conexão de Área de Trabalho Remota e a seguinte tela aparecerá:
+<br></br>
+ <img width="959" height="539" alt="Captura de tela 2026-08-03 170028" src="https://github.com/user-attachments/assets/5ce9ff02-d83f-403b-8c3b-4d76df3729fd" />
+<br></br>
+ Digite o número de IP da máquina que quer acessar e se o acesso remoto ao servidor dessa máquina estiver ativado e disponível na rede digite usuário (.\usuário) e senha da máquina. O acesso será feito com sucesso.
+
+
+ 
 
 
 
