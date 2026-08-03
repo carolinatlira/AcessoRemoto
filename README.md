@@ -65,7 +65,7 @@ Principais ferramentas:
 <br></br>
  <img width="959" height="539" alt="Captura de tela 2026-08-03 172531" src="https://github.com/user-attachments/assets/dc9b7651-2b71-482b-9fe6-fdb183bfeacb" />
 <br></br>
- Na tela seguinte, poderá pedir ajuda (inserindo o código de segurança do assistente) ou ajudar alguém. Não é possível tirar capturas de tela. Como assistente, você colocará seu email e será exibido um código de segurança para compartilhar, a outra pessoa colocará o código em sua máquina e será compartilhará a tela. Posteriormente, solicite o controle para acesso remoto.
+ Na tela seguinte, poderá pedir ajuda (inserindo o código de segurança do assistente) ou ajudar alguém. Não é possível tirar capturas de tela. Como assistente, você colocará seu email e será exibido um código de segurança para compartilhar, a outra pessoa colocará o código em sua máquina e compartilhará a tela. Posteriormente, solicite o controle para acesso remoto.
 
  
 
