@@ -54,11 +54,21 @@ Principais ferramentas:
  <br></br>
  <img width="959" height="539" alt="Captura de tela 2026-08-03 165744" src="https://github.com/user-attachments/assets/00e64c1b-7d63-42c3-85ac-8b2f5480b04a" />
 <br></br>
- Clique em Conexão de Área de Trabalho Remota e a seguinte tela aparecerá:
+ Clique em "Conexão de Área de Trabalho Remota" e a seguinte tela aparecerá:
 <br></br>
  <img width="959" height="539" alt="Captura de tela 2026-08-03 170028" src="https://github.com/user-attachments/assets/5ce9ff02-d83f-403b-8c3b-4d76df3729fd" />
 <br></br>
- Digite o número de IP da máquina que quer acessar e se o acesso remoto ao servidor dessa máquina estiver ativado e disponível na rede digite usuário (.\usuário) e senha da máquina. O acesso será feito com sucesso.
+ Digite o número de IP da máquina que quer acessar e se o acesso remoto ao servidor dessa máquina estiver ativado e disponível na rede, digite usuário (.\usuário) e senha da máquina. O acesso será feito com sucesso.
+
+ # Assistência Rápida
+ É um software nativo do windows. Para acessá-lo, vá até o menu iniciar e procure por "Assistência Rápida".
+<br></br>
+ <img width="959" height="539" alt="Captura de tela 2026-08-03 172531" src="https://github.com/user-attachments/assets/dc9b7651-2b71-482b-9fe6-fdb183bfeacb" />
+<br></br>
+ Na tela seguinte, poderá pedir ajuda (inserindo o código de segurança do assistente) ou ajudar alguém. Não é possível tirar capturas de tela. Como assistente, você colocará seu email e será exibido um código de segurança para compartilhar, a outra pessoa colocará o código em sua máquina e será compartilhará a tela. Posteriormente, solicite o controle para acesso remoto.
+
+ 
+
 
 
  
